@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background-image: url(../images/slider.1.webp);
+    height: 100vh;
+}
+
+.content{
+    background-color: rgba(0, 0, 0, 0.85);
+    color: rgb(231, 234, 236); 
+}
+
+.content h1{
+    font-size: 60px;
+    color:#d18c32;
+}
+
+.content h6{
+    font-size: 30px;
+}
+
+
+/* ------------------------------------------------------ */
+
+img{
+    width: 100%;
+}
+
+.image-2{
+    width: 5900px;
+}
+.section-3 , .section-4{
+    background-color: #eeee;
+}
+
+.information{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.information h2{
+    font-size: 45px;
+}
+.information h2 a{
+    font-size: 50px;
+}
+#lo{
+    font-size: 15px;
+    color: rgb(36, 36, 77);
+    margin-right: 15px;
+}
+
+/* --------------------------------------------------------- */
